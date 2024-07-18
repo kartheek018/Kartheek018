@@ -47,9 +47,9 @@ I thrive on learning new topics in data science, visualizing data, and conductin
 - 💼 I’m ready to work as a Data Analyst.
 - 👯 I’m looking to collaborate on any Machine Learning related research project.
 - 💬 Ask me about anything related to the latest tech.
+- 📝 My leetcode profile [Leetcode]([https](https://leetcode.com/u/Gnanakartheek/)).
 - 📫 How to reach me: [Gmail](mailto:gnanakartheek@gmail.com)
-- 😄 Pronouns: He/Him
-- 🧾 Check out my [resume](https).
+- 🧾 Check out my [resume]([https](https://drive.google.com/file/d/1Mka9RNQrdHOk9pP5PMz4m-ymJGBXML_j/view?usp=sharing)).
 
 <be>
 

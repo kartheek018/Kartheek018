@@ -55,7 +55,7 @@ I thrive on learning new topics in data science, visualizing data, and conductin
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned & explored various Domains few of them are as follows, web-development (as a front-end Developer) , UI/UX, Cloud , Nocode, or Lowcode Tools. I have Worked on various Projects related to Artificial Intelligence,IOT, Augmented Reality, Web-development. Additionally, I am <b>Microsoft Azure AZ-900 certified🎖</b> and </b>.
+I have learned & explored various Domains few of them are as follows, web-development (as a front-end Developer) , Now I am learning Backend Tecnologies Node JS, Express JS. I have Worked on various Projects related to Data analysis, Machine learning, Web-development.
 
 <p align="center"> 
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -70,6 +70,8 @@ I have learned & explored various Domains few of them are as follows, web-develo
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img alt="Statistics" src="https://img.shields.io/badge/Statistics-009688?style=for-the-badge&logo=statistics&logoColor=white" />
+<img alt="Probability" src="https://img.shields.io/badge/Probability-673AB7?style=for-the-badge&logo=probability&logoColor=white" />
 </p>
 <h1 align="center">Projects</h1>
 

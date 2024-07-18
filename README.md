@@ -78,7 +78,7 @@ I have learned & explored various Domains few of them are as follows, web-develo
 
 ## 📊 GitHub Stats:
 
-<img alt="kartheek's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartheek018&theme=white&&hide_border=true" width='48%' /> <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartheek018&layout=compact"/> <img alt="Kartheek's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=chaitanyasai-2021&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<img alt="kartheek's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartheek018&theme=white&&hide_border=true" width='48%' /> <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartheek018&layout=compact"/> <img alt="Kartheek's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=Kartheek018&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 <br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

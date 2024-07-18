@@ -78,13 +78,13 @@ I have learned & explored various Domains few of them are as follows, web-develo
 
 ## 📊 GitHub Stats:
 
-<img alt="kartheek's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyasai-2021&theme=white&&hide_border=true" width='48%' /> <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyasai-2021&layout=compact"/> <img alt="Chaitanya's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=chaitanyasai-2021&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<img alt="kartheek's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartheek018&theme=white&&hide_border=true" width='48%' /> <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartheek018&layout=compact"/> <img alt="Kartheek's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=chaitanyasai-2021&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 <br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   
-![Visitor Count](https://profile-counter.glitch.me/{chaitanyasai-2021}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Kartheek018}/count.svg)
 
 
 

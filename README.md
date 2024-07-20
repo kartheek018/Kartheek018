@@ -49,7 +49,7 @@ I thrive on learning new topics in data science, visualizing data, and conductin
 - 💬 Ask me about anything related to the latest tech.
 - 📝 My leetcode profile [Leetcode](https://leetcode.com/u/Gnanakartheek/).
 - 📫 How to reach me: [Gmail](mailto:gnanakartheek@gmail.com)
-- 🧾 Check out my [Leetcode](https://drive.google.com/file/d/1Mka9RNQrdHOk9pP5PMz4m-ymJGBXML_j/view?usp=sharing).
+- 🧾 Check out my [Resume](https://drive.google.com/file/d/1Mka9RNQrdHOk9pP5PMz4m-ymJGBXML_j/view?usp=sharing).
 <be>
 
 

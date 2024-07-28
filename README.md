@@ -69,6 +69,7 @@ I have learned & explored various Domains few of them are as follows, web-develo
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img alt="Django" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img alt="Statistics" src="https://img.shields.io/badge/Statistics-009688?style=for-the-badge&logo=statistics&logoColor=white" />
 <img alt="Probability" src="https://img.shields.io/badge/Probability-673AB7?style=for-the-badge&logo=probability&logoColor=white" />
